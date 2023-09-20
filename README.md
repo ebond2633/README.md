@@ -2,7 +2,7 @@ Hi my name Elizabeth Bond my professional background lies in human services, my 
 
 As a Human Services Coordinator, I have cultivated invaluable skills in problem-solving, conflict resolution, and crisis management. These highly transferable proficiencies enable me to dissect complex security issues and deliver effective solutions. Moreover, my experience in handling sensitive client information has instilled in me a deep appreciation for the utmost importance of data security and privacy.
 
- 📚 ## My certifications:
+ ## 🗞️ My certifications:
 
 - ISC2 Certified in Cybersecurity
 - AWS Certified Cloud Practitioner
