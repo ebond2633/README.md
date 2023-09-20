@@ -15,7 +15,24 @@ Hi my name Elizabeth Bond my professional background lies in human services, my 
 
 
 
+
+
+
+
+
 ![SOC Analyst](https://drive.google.com/uc?export=view&id=1PLTAl2eY-6mppXJKJ7siCpwcUNE7jLIW)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
